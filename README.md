@@ -20,6 +20,10 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - **Other**: Git, LaTeX, Google Apps Script, Notion, Airtable
 
 ---
+### 🗣️ Languages
+
+
+---
 
 ### 🎓 Education
 - 🎓 MSc Econometrics: Quantitative Finance — Erasmus University Rotterdam
