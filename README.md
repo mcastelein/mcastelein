@@ -26,7 +26,13 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 ![Japan](https://img.shields.io/badge/Japan-🇯🇵-black)
 ![China](https://img.shields.io/badge/China-🇨🇳-orange)
 :chinese-flag: spanish flag
+🇺🇸
 
+🇳🇱
+
+🇨🇳
+
+🇯🇵
 ---
 
 ### 🎓 Education
