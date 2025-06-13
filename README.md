@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi there, I'm Michael 😁
 
-<!--
-**mcastelein/mcastelein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Dutch-American data scientist and engineer with a background in econometrics, mathematics, and aerospace engineering. I love building clean, useful, and data-driven tools — especially when they combine automation, analytics, and a touch of creativity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🧠 **Machine Learning Projects** — LSTM, GRU, Random Forest, and SARIMAX models for time-series forecasting
+- 📊 **Data Dashboards** — Weekly dashboards using Plotly Dash, Tableau & Python as part of the #MakeOverMonday challenge
+- 📬 **[Ambitious Bois Newsletter](https://ambitiousbois.beehiiv.com/)** — A fun life optimization newsletter with a friend, using AI-generated images
+- 🏋️ **Achieverz Club** — A behavioral accountability system that uses automation, tracking, and financial incentives
+
+---
+
+### 🧰 Tools & Technologies I Use
+- **Languages**: Python, SQL, R, HTML/CSS, VBA
+- **ML/DS**: Scikit-learn, PyTorch, TensorFlow, XGBoost, Statsmodels
+- **Cloud/Data**: Azure, Databricks, BigQuery, REST APIs, CI/CD, Docker
+- **Dashboards**: Tableau, Plotly Dash, Power BI, Mode Analytics
+- **Other**: Git, LaTeX, Google Apps Script, Notion, Airtable
+
+---
+
+### 🎓 Education
+- 🎓 MSc Econometrics: Quantitative Finance — Erasmus University Rotterdam
+- 🎓 BSc Mathematics — University of North Georgia
+- 🎓 BSc Aerospace Engineering — Georgia Tech (Minor in Japanese)
+
+---
+
+### 🌍 A Bit More About Me
+- 🧳 I've lived/studied in Ireland, France, Japan, the Netherlands, China, and the US
+- 👯 I'm currently building a language podcast and online tutoring business
+- 📈 I love automation, dashboards, and anything that makes life more efficient
+- 🏃‍♂️ On a fitness journey: running, swimming, weightlifting, and triathlon training
+
+---
+
+### 📫 How to Reach Me
+- 📧 [mpcastelein@gmail.com](mailto:mpcastelein@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/michael-castelein)
+- 🌐 [MichaelCastelein.com](https://MichaelCastelein.com)
+
+---
+
+Thanks for stopping by! 😊
