@@ -21,7 +21,10 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 
 ---
 ### 🗣️ Languages
-🇺🇸 🇳🇱 🇯🇵 🇨🇳
+![USA](https://img.shields.io/badge/USA-🇺🇸-blue)
+![Netherlands](https://img.shields.io/badge/Netherlands-🇳🇱-red)
+![Japan](https://img.shields.io/badge/Japan-🇯🇵-black)
+![China](https://img.shields.io/badge/China-🇨🇳-orange)
 
 
 ---
