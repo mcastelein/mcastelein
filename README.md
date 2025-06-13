@@ -8,7 +8,7 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - 🧠 **Machine Learning Projects** — LSTM, GRU, Random Forest, and SARIMAX models for time-series forecasting
 - 📊 **Data Dashboards** — Weekly dashboards using Plotly Dash, Tableau & Python as part of the #MakeOverMonday challenge
 - 📬 **[Ambitious Bois Newsletter](https://ambitiousbois.beehiiv.com/)** — A fun life optimization newsletter with a friend, using AI-generated images
-- 🏋️ **Achieverz Club** — A behavioral accountability system that uses automation, tracking, and financial incentives
+- 🏋️ **[Achieverz Club](www.achieverzclub.com)** — A behavioral accountability system that uses automation, tracking, and financial incentives
 
 ---
 
