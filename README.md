@@ -21,10 +21,10 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 
 ---
 ### 🗣️ Languages
-English: Native
-Dutch: Native
-Japanese: Intermediate
-Chinese: Intermediate
+- **English**: Native
+- **Dutch**: Native
+- **Japanese**: Intermediate
+- **Chinese**: Intermediate
 
 ---
 
