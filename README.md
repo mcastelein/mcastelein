@@ -21,7 +21,10 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 
 ---
 ### 🗣️ Languages
-
+<p align="center">
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f3.png" width="48" />
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f8.png" width="48" />
+</p>
 
 ---
 
