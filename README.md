@@ -2,6 +2,8 @@
 
 I'm a Dutch-American data scientist and engineer with a background in econometrics, mathematics, and aerospace engineering. I love building clean, useful, and data-driven tools — especially when they combine automation, analytics, and a touch of creativity.
 
+➡️ Open to Freelance projects and Employment ⬅️
+
 ---
 
 ### 🚀 What I'm Working On
