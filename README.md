@@ -22,6 +22,15 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - **Other**: Git, LaTeX, Google Apps Script, Notion, Airtable
 
 ---
+
+### Project Portfolio
+1. NYC STAR Voting Analysis
+- 🗳️ Contributed to Equal Vote's [rcv-analysis](https://github.com/Equal-Vote/rcv-analysis) repo
+- 🔍 Built a Python tool to process ranked-choice data from the 2021 NYC Mayoral election for STAR voting simulation
+- 💻 Tools: Python, Pandas, Git
+
+---
+
 ### 🗣️ Languages
 - **English**: Native
 - **Dutch**: Native
