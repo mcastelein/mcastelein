@@ -28,6 +28,11 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - 🗳️ Contributed to Equal Vote's [rcv-analysis](https://github.com/Equal-Vote/rcv-analysis) repo
 - 🔍 Built a Python tool to process ranked-choice data from the 2021 NYC Mayoral election for STAR voting simulation
 - 💻 Tools: Python, Pandas, Git
+2. Chinese Learning App
+- Podcast and Streamlit App (in the future to be a mobile app)
+- Learn more chinese vocab, with only audio
+- Tools: Python, Streamlit
+- Instructions to download and run it [here](https://github.com/mcastelein/I-CAN-Chinese/tree/main)
 
 ---
 
