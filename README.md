@@ -7,10 +7,11 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 ---
 
 ### 🚀 What I'm Working On
-- 🧠 **Machine Learning Projects** — LSTM, GRU, Random Forest, and SARIMAX models for time-series forecasting
+- 🧠 **Machine Learning Projects** — Going through various Kaggle challenges
 - 📊 **Data Dashboards** — Weekly dashboards using Looker, Python or Streamlit
 - 📬 **[Ambitious Bois Newsletter](https://ambitiousbois.beehiiv.com/)** — A fun life optimization newsletter with a friend, using AI-generated images
 - 🏋️ **[Achieverz Club](www.achieverzclub.com)** — A behavioral accountability system that uses automation, tracking, and financial incentives
+- 🀄 **[I CAN Chinese](https://github.com/mcastelein/I-CAN-Chinese)** - Chinese language learning podcast and interactive dashboard
 
 ---
 
@@ -18,7 +19,7 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - **Languages**: Python, SQL, R, HTML/CSS, VBA
 - **ML/DS**: Scikit-learn, PyTorch, TensorFlow, XGBoost, Statsmodels
 - **Cloud/Data**: Azure, Databricks, BigQuery, REST APIs, CI/CD, Docker
-- **Dashboards**: Tableau, Plotly Dash, Power BI, Mode Analytics
+- **Dashboards**: Tableau, Plotly Dash, Power BI, Mode Analytics, Looker, Streamlit
 - **Other**: Git, LaTeX, Google Apps Script, Notion, Airtable
 
 ---
