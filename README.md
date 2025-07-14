@@ -33,6 +33,11 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - Learn more chinese vocab, with only audio
 - Tools: Python, Streamlit
 - Instructions to download and run it [here](https://github.com/mcastelein/I-CAN-Chinese/tree/main)
+3. Exercise Accountability Dashboard
+- I run a series of exercise accountability groups
+- For those, I track progress and balances via a streamlit dashboard
+- Check it out [here](https://exercise-accountability-dashboard.streamlit.app/)
+- And here is the [github repo](https://github.com/mcastelein/AccountabilityDashboard) for it
 
 ---
 
