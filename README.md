@@ -44,7 +44,7 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - Ran each model with an without a spatial lag
 - More information in linked repo
 5. **Kaggle Projects**
-- [Iris Data Classification Github Repo](https://github.com/mcastelein/Iris-Species-Classification/tree/main) & [Streamlit Dashboard](https://michael-castelein-iris-species-classification.streamlit.app/)
+- [Iris Data Classification Github Repo](https://github.com/mcastelein/Iris-Species-Classification/tree/main) & [Streamlit Dashboard](https://michael-castelein-iris-species-classification.streamlit.app/) - Decision Tree, Random Forest, Support Vector Machines
 
 ---
 
