@@ -38,6 +38,10 @@ I'm a Dutch-American data scientist and engineer with a background in econometri
 - For those, I track progress and balances via a streamlit dashboard
 - Check it out [here](https://exercise-accountability-dashboard.streamlit.app/)
 - And here is the [github repo](https://github.com/mcastelein/AccountabilityDashboard) for it
+4. [My Masters Thesis](https://github.com/mcastelein/Masters-Thesis/tree/main): Energy Prices Prediction comparison of Machine Learning models with Spacial Econometircs
+- Compared Linear Regression, SARIMAX, Random Forest, GRU, LSTM
+- Ran each model with an without a spatial lag
+- More information in linked repo
 
 ---
 
